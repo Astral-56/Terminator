@@ -1,4 +1,4 @@
-### @CinderellaProBot // http://www.telegram.dog/CinderellaProBot
+### @Miss_tezzabot // http://www.telegram.dog/pr_o_To_bot
 > with HunterxHunter theme.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kidiloskahyper45/CinderellaProBot.git)

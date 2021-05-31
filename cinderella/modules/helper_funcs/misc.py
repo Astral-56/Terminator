@@ -1,9 +1,10 @@
 from math import ceil
-from typing import Dict, List
+from typing import List, Dict
 
-from cinderella import LOAD,NO_LOAD
-from telegram import MAX_MESSAGE_LENGTH, Bot, InlineKeyboardButton, ParseMode
+from telegram import MAX_MESSAGE_LENGTH, InlineKeyboardButton, Bot, ParseMode,Update
 from telegram.error import TelegramError
+
+from cinderella import LOAD, NO_LOAD
 
 
 class EqInlineKeyboardButton(InlineKeyboardButton):

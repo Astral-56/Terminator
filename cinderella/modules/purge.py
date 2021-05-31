@@ -92,4 +92,4 @@ __help__ = """
  - /purge <integer X>: deletes the replied message, and X messages following it if replied to a message.
  - /purge <integer X>: deletes the number of messages starting from bottom. (Counts manaully deleted messages too)
 """
-__mod_name__ = "PURGE"
+__mod_name__ = "Purge"

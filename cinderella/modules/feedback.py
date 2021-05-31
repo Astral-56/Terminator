@@ -37,7 +37,7 @@ __help__ = """
                can can see your feeds here.
 """
 
-__mod_name__ = "FEEDBACK"
+__mod_name__ = "Feedback"
 
 feed_handle = DisableAbleCommandHandler("feedback", feedback)
 

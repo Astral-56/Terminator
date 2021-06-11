@@ -37,9 +37,9 @@ Live in the sunshine where you belong 🦋.
 
 HELP_STRINGS = """
 *Main Commands :* [◉‿◉](https://telegra.ph/file/c03971e2770fb04a00d0f.jpg)
-✪ /start: Starts me! You've probably already used this.
-✪ /help: Click this, I'll let you know about myself!
-✪ /settings: 
+🐼 /start: Starts me! You've probably already used this.
+🐼 /help: Click this, I'll let you know about myself!
+🐼 /settings: 
    ◔ in PM: will send you your settings for all supported modules.
    ◔ in a Group: will redirect you to pm, with all that chat's settings.
 """
@@ -277,7 +277,7 @@ def get_help(bot: Bot, update: Update):
         update.effective_message.reply_text("Contact me in PM to get the list of possible commands.",
                                             reply_markup=InlineKeyboardMarkup(
                                                 [[InlineKeyboardButton(text="👩‍✈️Help",url="t.me/{}?start=help".format(bot.username))],  
-                                                [InlineKeyboardButton(text="©️ made by",url="https://t.me/Astronaut_afrina")]]))
+                                                [InlineKeyboardButton(text="©️ made by",url="https://t.me/shapphiree")]]))
         return
 
     elif len(args) >= 2 and any(args[1].lower() == x for x in HELPABLE):

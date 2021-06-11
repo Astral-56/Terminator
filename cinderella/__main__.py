@@ -36,7 +36,7 @@ Live in the sunshine where you belong 🦋.
 
 
 HELP_STRINGS = """
-*Main Commands :* [ʕ·ᴥ·ʔ](https://telegra.ph/file/5534384d2f2b2d8e6fdbb.jpg)
+*Main Commands :* [◉‿◉](https://telegra.ph/file/d3b348d0977b0e4096a90.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /settings: 

@@ -29,9 +29,9 @@ from cinderella.modules.connection import connect_button
 PM_START_TEXT = """
 _Hello_ *{}*
 
-_My name is_ *{}*\n_Creating my own sunshine 🐼 .!_
-_Maintained by_ [Shapphire](https://t.me/shapphiree)
-Live in the sunshine where you belong 🦋.
+_My Name Is_ *{}*\n_Creating My Own Sunshine 🐼 .!_
+_Maintained By_ [Shapphire](https://t.me/shapphiree)
+Live In The Sunshine Where You Belong 🦋.
 """
 
 

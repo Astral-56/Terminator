@@ -30,7 +30,7 @@ PM_START_TEXT = """
 _Hello_ *{}*
 
 _My name is_ *{}*\n_Creating my own sunshine 🐼 .!_
-_Maintained by_ (Shapphire)(https://t.me/shapphiree)
+_Maintained by_ [Shapphire](https://t.me/shapphiree)
 Live in the sunshine where you belong 🦋.
 """
 
